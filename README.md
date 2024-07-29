@@ -1,12 +1,7 @@
 ## Design and Control System of an Infrared Obstacle Avoidance Car Based on TM4C123
 
-### Project Background
-With the continuous development of technology, intelligent cars have broad application prospects in industrial automation, logistics, home services, and other fields. Designing an infrared obstacle avoidance car system based on the TM4C123 can perceive obstacles through infrared modules and autonomously avoid collisions. It can also be remotely controlled via a PS2 handle, demonstrating high practicality and application value.
-
-### Research Objectives
-- **Industrial Automation:** Can be used for internal logistics transportation in factories, achieving efficient execution of transportation tasks with autonomous obstacle avoidance, thus improving production efficiency.
-- **Home Services:** Can be used for home cleaning robots to avoid collisions with furniture, walls, and other obstacles, providing convenient home cleaning services.
-- **Educational Field:** As a teaching example, it helps students understand the design and control principles of embedded systems, enhancing their practical skills and innovation awareness.
+### Project Objectives
+Designing an infrared obstacle avoidance car system based on the TM4C123 can perceive obstacles through infrared modules and autonomously avoid collisions. It can also be remotely controlled via a PS2 handle, demonstrating high practicality and application value.
 
 ### Methods and Technologies
 - **Hardware Selection:**
